@@ -4,4 +4,4 @@
 
 模様の生成のための、デザインツールとしても使用することができます。
 
-![poster](https://github.com/KosukeOnishi/song2pattern/blob/main/poster.png "poster")
+<img src="https://github.com/KosukeOnishi/song2pattern/blob/main/poster.png" width="400">
